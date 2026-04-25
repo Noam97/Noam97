@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Noam97
-- 👀 I’m interested in software development
-- 🌱 Recent Computer Science graduate from Bar-Ilan University
+- 🚀 I’m a software development
+- 🌱 Computer Science graduate from Bar-Ilan University
 - 📫 Connect with me: noamm240@gmail.com
